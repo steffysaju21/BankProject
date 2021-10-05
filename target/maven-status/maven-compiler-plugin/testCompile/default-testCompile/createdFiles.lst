@@ -1,0 +1,9 @@
+pom\init\utilities\ReadConfig.class
+pom\init\utilities\Reporting.class
+pom\init\testcases\LoginTest_001.class
+pom\init\testcases\BaseClass.class
+pom\init\utilities\XLUtils.class
+pom\init\pageobject\LoginPage.class
+pom\init\testcases\TC_AddCUstomerTest_003.class
+pom\init\testcases\TC_loginddt_002.class
+pom\init\pageobject\AddCustomerPage.class

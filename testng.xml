@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="pom.init.utilities.Reporting"/>
+    </listeners>
+    <test verbose="2" preserve-order="true" name="C:/Users/steff/IdeaProjects/BankProject">
+
+        <parameter name="browser" value="chrome" />
+        <classes>
+            <class name="pom.init.testcases.LoginTest_001"/>
+<!--            <class name="pom.init.testcases.TC_loginddt_002"/>-->
+            <class name="pom.init.testcases.TC_AddCUstomerTest_003"/>
+        </classes>
+        
+    </test>
+</suite>
